@@ -6,6 +6,8 @@
 
 [Batman vs Two-Face](https://drive.google.com/open?id=1yc9TPvgF-0yJrWljt_HO-grK95LuoVTb4g)
 
+[Batman: Gotham by Gaslight](https://drive.google.com/open?id=10ydvaccvjSHTXFI0tZ6sMnrNpCL4rAWmZA)
+
 [Friday the 13th](https://drive.google.com/open?id=17UUzgPYyfq4kMKnzq3L_webOr9G0pLCHeA)
 
 [Jurassic World](https://drive.google.com/open?id=1F49AnvBNVTZByuDPY25VMmYm7A9GmDjxhQ)
@@ -13,6 +15,8 @@
 [Lake Placid](https://drive.google.com/open?id=1qVw2cymaAJJvHCB31PNWOz2fAVrDz7CQAQ)
 
 [Predator](https://drive.google.com/open?id=1OPFq2m7-nl2Pv1C4wLhAuA2AZXxnYwbZ9g)
+
+[Star Wars - Rogue One](https://drive.google.com/open?id=1T7gJdsqXr4cx-eosW70PEFbTm8sQQaWxsw)
 
 [Terminator](https://drive.google.com/open?id=10BKlVD_SK7wZJtv0FelM7U-mFZp0hqsBbg)
 
