@@ -15,7 +15,8 @@
 [Austin Powers 2](https://ucinema.cc/movie/austin-powers-the-spy-who-shagged-me-1999)\
 [Batman vs Two-Face](https://drive.google.com/open?id=1yc9TPvgF-0yJrWljt_HO-grK95LuoVTb4g)
 [Batman: Gotham by Gaslight](https://drive.google.com/open?id=10ydvaccvjSHTXFI0tZ6sMnrNpCL4rAWmZA)
-[Batman Ninja](https://drive.google.com/file/d/1RSE0B70e52P7iv8lKUF41-dRFLZvtzgutQ/view?usp=sharing)\
+[Batman Ninja](https://drive.google.com/file/d/1RSE0B70e52P7iv8lKUF41-dRFLZvtzgutQ/view?usp=sharing)
+[Batman The Killing Joke](https://drive.google.com/open?id=17zvR7f4AzNfzDlvFIXQmSmiRbmaIYZXQ3w)\
 [Friday the 13th](https://drive.google.com/open?id=17UUzgPYyfq4kMKnzq3L_webOr9G0pLCHeA)\
 [Gravity](https://drive.google.com/open?id=1uMdVRjbdfGy4ckTQjf19XfMif_VwFEIxPw)\
 [John Wick chapter 2](https://ucinema.cc/movie/john-wick-chapter-2-2017)\
@@ -26,6 +27,8 @@
 [Predator](https://drive.google.com/open?id=1OPFq2m7-nl2Pv1C4wLhAuA2AZXxnYwbZ9g)\
 [Prey](https://yts.mx/movies/prey-2022)
 [Prey](https://ucinema.cc/movie/prey-2022)\
+[Rambo](https://drive.google.com/open?id=1xKGFgmzyovih0gp6ZF7abOBkVnesxGHNtw)
+[Riddick](https://drive.google.com/open?id=1Sy4e3f4CxkxYZqYUjUZlGBotirT72fY-Ww)\
 [Star Wars - Rogue One](https://drive.google.com/open?id=1T7gJdsqXr4cx-eosW70PEFbTm8sQQaWxsw)\
 [Terminator](https://drive.google.com/open?id=10BKlVD_SK7wZJtv0FelM7U-mFZp0hqsBbg)\
 [Terminator 2](https://drive.google.com/open?id=1ex5jRSAAQYiAukc4qpRluLhfAoltPtwy3w)\
