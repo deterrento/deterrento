@@ -58,4 +58,5 @@
 [repy](https://docs.python.org/3/library/re.html)
 [imdb](https://www.imdb.com/)
 [espn](https://www.espn.com.br/)
+[metacritic](https://www.metacritic.com/)
 [worldometer](https://www.worldometers.info/population/)\
