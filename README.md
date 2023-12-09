@@ -55,4 +55,6 @@
 [nian](https://drive.google.com/open?id=1DQtVgP8m_kdv30Gq4Ul-7_1wa5P4lRrxZQ)
 [ohrb](https://drive.google.com/open?id=1z7CNYSLm2VOMdq3wha11WRjBJgr5M_Wmig)
 [fgrpk](https://fitgirl-repacks.site/)
-[repy](https://docs.python.org/3/library/re.html)\
+[repy](https://docs.python.org/3/library/re.html)
+[imdb](https://www.imdb.com/)
+[espn](https://www.espn.com.br/)\
