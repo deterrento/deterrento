@@ -62,11 +62,13 @@
 [ign](https://br.ign.com/)
 [metacritic](https://www.metacritic.com/)
 [gamespot](https://www.gamespot.com/)
+[kotaku](https://kotaku.com/)
 [worldometer](https://www.worldometers.info/population/)
 [steam](https://store.steampowered.com/)
 [aftv](https://www.aftvnews.com/)
 [engadget](https://www.engadget.com/)
 [theverge](https://www.theverge.com/)
 [arstechnica](https://arstechnica.com/)
+[gizmodo](https://gizmodo.uol.com.br/)
 [chromecast](https://clients5.google.com/cast/chromecast/home)
 [xhtml](https://en.wikipedia.org/wiki/XHTML)\
