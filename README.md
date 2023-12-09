@@ -63,4 +63,5 @@
 [gamespot](https://www.gamespot.com/)
 [worldometer](https://www.worldometers.info/population/)
 [steam](https://store.steampowered.com/)
+[aftv](https://www.aftvnews.com/)
 [engadget](https://www.engadget.com/)\
