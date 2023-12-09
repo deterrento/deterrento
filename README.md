@@ -67,4 +67,5 @@
 [aftv](https://www.aftvnews.com/)
 [engadget](https://www.engadget.com/)
 [theverge](https://www.theverge.com/)
-[arstechnica](https://arstechnica.com/)\
+[arstechnica](https://arstechnica.com/)
+[chromecast](https://clients5.google.com/cast/chromecast/home)\
