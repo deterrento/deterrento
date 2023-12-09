@@ -61,4 +61,6 @@
 [ign](https://br.ign.com/)
 [metacritic](https://www.metacritic.com/)
 [gamespot](https://www.gamespot.com/)
-[worldometer](https://www.worldometers.info/population/)\
+[worldometer](https://www.worldometers.info/population/)
+[steam](https://store.steampowered.com/)
+[engadget](https://www.engadget.com/)\
