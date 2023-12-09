@@ -57,4 +57,5 @@
 [fgrpk](https://fitgirl-repacks.site/)
 [repy](https://docs.python.org/3/library/re.html)
 [imdb](https://www.imdb.com/)
-[espn](https://www.espn.com.br/)\
+[espn](https://www.espn.com.br/)
+[worldometer](https://www.worldometers.info/population/)\
