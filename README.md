@@ -64,4 +64,5 @@
 [worldometer](https://www.worldometers.info/population/)
 [steam](https://store.steampowered.com/)
 [aftv](https://www.aftvnews.com/)
-[engadget](https://www.engadget.com/)\
+[engadget](https://www.engadget.com/)
+[theverge](https://www.theverge.com/)\
