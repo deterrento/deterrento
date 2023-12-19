@@ -79,4 +79,5 @@
 [PreyS](https://www2.solarmovie.cr/movie/prey-2022-70915/watching)
 [RobocopY](https://yts.autos/movies/robocop-1987)
 [RobocopS](https://www2.solarmovie.cr/movie/robocop-1987-57747/watching)
-[Uncharted](https://ucinema.cc/movie/uncharted-2022)\
+[Uncharted](https://ucinema.cc/movie/uncharted-2022)
+[UnchartedS](https://www2.solarmovie.cr/movie/uncharted-49448/watching)\
