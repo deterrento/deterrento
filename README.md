@@ -76,6 +76,7 @@
 [ohrb](https://drive.google.com/open?id=1z7CNYSLm2VOMdq3wha11WRjBJgr5M_Wmig)\
 [Avatar 2](https://ucinema.cc/movie/avatar-the-way-of-water-2022)
 [Avatar 2](https://www2.solarmovie.cr/movie/avatar-the-way-of-water-52347/watching)
+[PreyS](https://www2.solarmovie.cr/movie/prey-2022-70915/watching)
 [RobocopY](https://yts.autos/movies/robocop-1987)
 [RobocopS](https://www2.solarmovie.cr/movie/robocop-1987-57747/watching)
 [Uncharted](https://ucinema.cc/movie/uncharted-2022)\
