@@ -23,9 +23,10 @@
 [Matrix Resurrections](https://yts.mx/movies/the-matrix-resurrections-2021)\
 [300](https://drive.google.com/file/d/1Y3YEr6meKBKJKQPbAiXns-ABc_DErC1lbA/view?usp=sharing)
 [300 Rise of an Empire](https://drive.google.com/file/d/1eSPkbTW7ikfsKsfGFlVYSILfoGApp37MSQ/view?usp=sharing)\
-[Alien 3](https://yts.mx/movies/alien3-1992)
-[Alien 3](https://watch.mkvcage.site/en/movie/8077/alien)
-[Alien 3](https://ucinema.cc/movie/alien-1992)\
+[Alien 3y](https://yts.mx/movies/alien3-1992)
+[Alien 3m](https://watch.mkvcage.site/en/movie/8077/alien)
+[Alien 3u](https://ucinema.cc/movie/alien-1992)
+[Alien 3s](https://www2.solarmovie.cr/movie/alien-3-4946/watching)\
 [Alien](https://drive.google.com/open?id=17TVfqAwczzBKr1auCagN5ZQd2qF_U8u1Fw)
 [Aliens](https://drive.google.com/open?id=1vglUrpxH_xFsQ-ISM2opz6lPuCntki2Uqw)
 [Alien Covenant](https://drive.google.com/open?id=19bSZd0KYfiHhMrlGC1oHxPqfT2FAsAIMPw)
