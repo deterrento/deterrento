@@ -20,7 +20,8 @@
 [snapdrop](https://snapdrop.net/)
 [archive](https://archive.org/details/@someone986)
 [xhtml](https://en.wikipedia.org/wiki/XHTML)
-[.cso](https://archive.org/download/psp-cso-eu)\
+[.cso](https://archive.org/download/psp-cso-eu)
+[nintendoDS](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/)\
 [Watch.MKVcage.site](https://watch.mkvcage.site/en)\
 [Matrix Resurrections](https://yts.mx/movies/the-matrix-resurrections-2021)\
 [300](https://drive.google.com/file/d/1Y3YEr6meKBKJKQPbAiXns-ABc_DErC1lbA/view?usp=sharing)
