@@ -19,6 +19,7 @@
 [gizmodo](https://gizmodo.uol.com.br/)
 [chromecast](https://clients5.google.com/cast/chromecast/home)
 [unboxed](https://chromeunboxed.com/)
+[gsm](https://www.gsmarena.com/)
 [snapdrop](https://snapdrop.net/)
 [archive](https://archive.org/details/@someone986)
 [roms](https://r-roms.github.io/)
