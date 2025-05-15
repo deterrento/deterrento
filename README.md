@@ -9,6 +9,7 @@
 [metacritic](https://www.metacritic.com/)
 [gamespot](https://www.gamespot.com/)
 [kotaku](https://kotaku.com/)
+[polygon](https://www.polygon.com/)
 [worldometer](https://www.worldometers.info/population/)
 [steam](https://store.steampowered.com/)
 [aftv](https://www.aftvnews.com/)
