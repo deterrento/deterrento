@@ -18,6 +18,7 @@
 [arstechnica](https://arstechnica.com/)
 [gizmodo](https://gizmodo.uol.com.br/)
 [chromecast](https://clients5.google.com/cast/chromecast/home)
+[unboxed](https://chromeunboxed.com/)
 [snapdrop](https://snapdrop.net/)
 [archive](https://archive.org/details/@someone986)
 [xhtml](https://en.wikipedia.org/wiki/XHTML)
