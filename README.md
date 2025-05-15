@@ -17,6 +17,7 @@
 [the_verge](https://www.theverge.com/)
 [ars_technica](https://arstechnica.com/)
 [gizmodo](https://gizmodo.uol.com.br/)
+[adrenaline](https://www.adrenaline.com.br/)
 [chromecast](https://clients5.google.com/cast/chromecast/home)
 [unboxed](https://chromeunboxed.com/)
 [gsm](https://www.gsmarena.com/)
