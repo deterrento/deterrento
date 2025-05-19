@@ -29,7 +29,9 @@
 [f1](https://en.wikipedia.org/wiki/List_of_Formula_One_Grand_Prix_winners)
 [.cso](https://archive.org/download/psp-cso-eu)
 [nintendoDS](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/)
-[Redump-Myrient](https://myrient.erista.me/files/Redump/)\
+[Redump-Myrient](https://myrient.erista.me/files/Redump/)
+[libretro](https://docs.libretro.com/guides/install-windows/)
+[4do](https://www.3dum.net/wiki/4do-compatibility-list.htm)\
 [Watch.MKVcage.site](https://watch.mkvcage.site/en)\
 [Matrix Resurrections](https://yts.mx/movies/the-matrix-resurrections-2021)\
 [300](https://drive.google.com/file/d/1Y3YEr6meKBKJKQPbAiXns-ABc_DErC1lbA/view?usp=sharing)
