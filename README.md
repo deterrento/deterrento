@@ -31,6 +31,7 @@
 [nintendoDS](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/)
 [Redump-Myrient](https://myrient.erista.me/files/Redump/)
 [libretro](https://docs.libretro.com/guides/install-windows/)
+[emuwiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 [4do](https://www.3dum.net/wiki/4do-compatibility-list.htm)\
 [Watch.MKVcage.site](https://watch.mkvcage.site/en)\
 [Matrix Resurrections](https://yts.mx/movies/the-matrix-resurrections-2021)\
