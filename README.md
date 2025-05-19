@@ -32,6 +32,7 @@
 [Redump-Myrient](https://myrient.erista.me/files/Redump/)
 [libretro](https://docs.libretro.com/guides/install-windows/)
 [emuwiki](https://emulation.gametechwiki.com/index.php/Main_Page)
+[bigpemu](https://www.richwhitehouse.com/jaguar/index.php)
 [4do](https://www.3dum.net/wiki/4do-compatibility-list.htm)\
 [Watch.MKVcage.site](https://watch.mkvcage.site/en)\
 [Matrix Resurrections](https://yts.mx/movies/the-matrix-resurrections-2021)\
