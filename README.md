@@ -33,7 +33,8 @@
 [libretro](https://docs.libretro.com/guides/install-windows/)
 [emuwiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 [bigpemu](https://www.richwhitehouse.com/jaguar/index.php)
-[4do](https://www.3dum.net/wiki/4do-compatibility-list.htm)\
+[4do](https://www.3dum.net/wiki/4do-compatibility-list.htm)
+[blurbusters](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)\
 [Watch.MKVcage.site](https://watch.mkvcage.site/en)\
 [Matrix Resurrections](https://yts.mx/movies/the-matrix-resurrections-2021)\
 [300](https://drive.google.com/file/d/1Y3YEr6meKBKJKQPbAiXns-ABc_DErC1lbA/view?usp=sharing)
