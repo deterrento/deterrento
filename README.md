@@ -15,6 +15,7 @@
 [engadget](https://www.engadget.com/)
 [the_verge](https://www.theverge.com/)
 [ars_technica](https://arstechnica.com/)
+[toms](https://www.tomshardware.com/)
 [gizmodo](https://gizmodo.uol.com.br/)
 [adrenaline](https://www.adrenaline.com.br/)
 [chromecast](https://clients5.google.com/cast/chromecast/home)
