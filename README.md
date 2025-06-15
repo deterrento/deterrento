@@ -27,6 +27,7 @@
 [snapdrop](https://snapdrop.net/)
 [archive](https://archive.org/details/@someone986)
 [roms](https://r-roms.github.io/)
+[acd32](https://archive.org/download/AMIGACD32CHD-Arquivista)
 [ntfs](https://en.wikipedia.org/wiki/NTFS)
 [xhtml](https://en.wikipedia.org/wiki/XHTML)
 [f1](https://en.wikipedia.org/wiki/List_of_Formula_One_Grand_Prix_winners)
