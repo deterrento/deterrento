@@ -26,6 +26,7 @@
 [aftv](https://www.aftvnews.com/)
 [snapdrop](https://snapdrop.net/)
 [archive](https://archive.org/details/@someone986)
+[archive2](https://archive.org/details/@someone980)
 [roms](https://r-roms.github.io/)
 [acd32](https://archive.org/download/AMIGACD32CHD-Arquivista)
 [ntfs](https://en.wikipedia.org/wiki/NTFS)
