@@ -66,7 +66,8 @@
 [bigpemu](https://www.richwhitehouse.com/jaguar/index.php)
 [4do](https://www.3dum.net/wiki/4do-compatibility-list.htm)
 [spelunkywiki](https://spelunky.fandom.com/wiki/Spelunky_Wiki)
-[blurbusters](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)\
+[blurbusters](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
+[limbo](https://limbo-demo.en.uptodown.com/android)\
 [Watch.MKVcage.site](https://watch.mkvcage.site/en)\
 [Matrix Resurrections](https://yts.mx/movies/the-matrix-resurrections-2021)\
 [300](https://drive.google.com/file/d/1Y3YEr6meKBKJKQPbAiXns-ABc_DErC1lbA/view?usp=sharing)
