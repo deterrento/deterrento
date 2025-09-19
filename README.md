@@ -52,6 +52,7 @@
 [archive2](https://archive.org/details/@someone980)
 [roms](https://r-roms.github.io/)
 [dos](https://r-roms.github.io/PC/pc-games)
+[total_dos_collection](https://archive.org/details/total-dos-collection-a)
 [bios](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/)
 [acd32](https://archive.org/download/AMIGACD32CHD-Arquivista)
 [ps2chd](https://archive.org/details/ps2-redump-usa-chd-part-A)
