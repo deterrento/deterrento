@@ -57,6 +57,7 @@
 [bios](https://archive.org/download/RetroarchSystemFiles/Retroarch-System/)
 [acd32](https://archive.org/download/AMIGACD32CHD-Arquivista)
 [ps2chd](https://archive.org/details/ps2-redump-usa-chd-part-A)
+[genesishomebrew](https://archive.org/download/gen-md-hb)
 [ntfs](https://en.wikipedia.org/wiki/NTFS)
 [xhtml](https://en.wikipedia.org/wiki/XHTML)
 [f1](https://en.wikipedia.org/wiki/List_of_Formula_One_Grand_Prix_winners)
