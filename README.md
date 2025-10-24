@@ -46,7 +46,7 @@
 [chromecast](https://clients5.google.com/cast/chromecast/home)
 [unboxed](https://chromeunboxed.com/)
 [gsm](https://www.gsmarena.com/)
-[aftv](https://www.aftvnews.com/)
+[aftvnews](https://www.aftvnews.com/)
 [snapdrop](https://snapdrop.net/)
 [archive](https://archive.org/details/@someone986)
 [archive2](https://archive.org/details/@someone980)
