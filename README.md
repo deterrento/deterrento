@@ -98,8 +98,8 @@
 [Batman The Killing Joke](https://drive.google.com/open?id=17zvR7f4AzNfzDlvFIXQmSmiRbmaIYZXQ3w)\
 [Friday the 13th](https://drive.google.com/open?id=17UUzgPYyfq4kMKnzq3L_webOr9G0pLCHeA)\
 [Gravity](https://drive.google.com/open?id=1uMdVRjbdfGy4ckTQjf19XfMif_VwFEIxPw)\
-[John Wick chapter 2](https://ucinema.cc/movie/john-wick-chapter-2-2017)\
-[Jurassic World](https://drive.google.com/open?id=1F49AnvBNVTZByuDPY25VMmYm7A9GmDjxhQ)\
+[John Wick chapter 2](https://ucinema.cc/movie/john-wick-chapter-2-2017)
+[Jurassic World](https://drive.google.com/open?id=1F49AnvBNVTZByuDPY25VMmYm7A9GmDjxhQ)
 [Jurassic World Dominion](https://ucinema.cc/movie/jurassic-world-dominion-2022)\
 [Lake Placid](https://drive.google.com/open?id=1qVw2cymaAJJvHCB31PNWOz2fAVrDz7CQAQ)\
 [Pacific Rim](https://drive.google.com/file/d/16Ab80bnSOUBNMZilIpuNHWIJ40XErveA0Q/view?usp=sharing)
