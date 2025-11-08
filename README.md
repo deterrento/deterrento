@@ -96,7 +96,7 @@
 [Batman: Gotham by Gaslight](https://drive.google.com/open?id=10ydvaccvjSHTXFI0tZ6sMnrNpCL4rAWmZA)
 [Batman Ninja](https://drive.google.com/file/d/1RSE0B70e52P7iv8lKUF41-dRFLZvtzgutQ/view?usp=sharing)
 [Batman The Killing Joke](https://drive.google.com/open?id=17zvR7f4AzNfzDlvFIXQmSmiRbmaIYZXQ3w)\
-[Friday the 13th](https://drive.google.com/open?id=17UUzgPYyfq4kMKnzq3L_webOr9G0pLCHeA)\
+[Friday the 13th](https://drive.google.com/open?id=17UUzgPYyfq4kMKnzq3L_webOr9G0pLCHeA)
 [Gravity](https://drive.google.com/open?id=1uMdVRjbdfGy4ckTQjf19XfMif_VwFEIxPw)\
 [John Wick chapter 2](https://ucinema.cc/movie/john-wick-chapter-2-2017)
 [Jurassic World](https://drive.google.com/open?id=1F49AnvBNVTZByuDPY25VMmYm7A9GmDjxhQ)
