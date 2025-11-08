@@ -22,7 +22,6 @@
 [bios](https://r-roms.github.io/Miscellaneous/bios-files)
 [popular](https://r-roms.github.io/Populars/about-rvz-files)
 [no-intro-romsets](https://archive.org/download/ni-roms/roms/)\
-\
 [fitgirl](https://fitgirl-repacks.site/)
 [yts_yify](https://yts.autos/)
 [repython](https://docs.python.org/3/library/re.html)
