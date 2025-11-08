@@ -89,7 +89,7 @@
 [Alien Covenant](https://drive.google.com/open?id=19bSZd0KYfiHhMrlGC1oHxPqfT2FAsAIMPw)
 [Alien 4 Resurrection](https://ucinema.cc/movie/alien-resurrection-1997)\
 [Austin Powers](https://yts.mx/movies/austin-powers-international-man-of-mystery-1997)
-[Austin Powers](https://ucinema.cc/movie/austin-powers-international-man-of-mystery-1997)\
+[Austin Powers](https://ucinema.cc/movie/austin-powers-international-man-of-mystery-1997)
 [Austin Powers 2](https://watch.mkvcage.site/en/movie/817/austin-powers-the-spy-who-shagged-me)
 [Austin Powers 2](https://ucinema.cc/movie/austin-powers-the-spy-who-shagged-me-1999)\
 [Batman vs Two-Face](https://drive.google.com/open?id=1yc9TPvgF-0yJrWljt_HO-grK95LuoVTb4g)
