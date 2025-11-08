@@ -101,14 +101,14 @@
 [John Wick chapter 2](https://ucinema.cc/movie/john-wick-chapter-2-2017)
 [Jurassic World](https://drive.google.com/open?id=1F49AnvBNVTZByuDPY25VMmYm7A9GmDjxhQ)
 [Jurassic World Dominion](https://ucinema.cc/movie/jurassic-world-dominion-2022)\
-[Lake Placid](https://drive.google.com/open?id=1qVw2cymaAJJvHCB31PNWOz2fAVrDz7CQAQ)\
+[Lake Placid](https://drive.google.com/open?id=1qVw2cymaAJJvHCB31PNWOz2fAVrDz7CQAQ)
 [Pacific Rim](https://drive.google.com/file/d/16Ab80bnSOUBNMZilIpuNHWIJ40XErveA0Q/view?usp=sharing)
 [Predator](https://drive.google.com/open?id=1OPFq2m7-nl2Pv1C4wLhAuA2AZXxnYwbZ9g)
 [Prey](https://yts.mx/movies/prey-2022)
 [Prey](https://ucinema.cc/movie/prey-2022)\
 [Rambo](https://drive.google.com/open?id=1xKGFgmzyovih0gp6ZF7abOBkVnesxGHNtw)
-[Riddick](https://drive.google.com/open?id=1Sy4e3f4CxkxYZqYUjUZlGBotirT72fY-Ww)\
-[Star Wars - Rogue One](https://drive.google.com/open?id=1T7gJdsqXr4cx-eosW70PEFbTm8sQQaWxsw)\
+[Riddick](https://drive.google.com/open?id=1Sy4e3f4CxkxYZqYUjUZlGBotirT72fY-Ww)
+[Star Wars - Rogue One](https://drive.google.com/open?id=1T7gJdsqXr4cx-eosW70PEFbTm8sQQaWxsw)
 [Terminator](https://drive.google.com/open?id=10BKlVD_SK7wZJtv0FelM7U-mFZp0hqsBbg)
 [Terminator 2](https://drive.google.com/open?id=1ex5jRSAAQYiAukc4qpRluLhfAoltPtwy3w)
 [Tron](https://drive.google.com/open?id=1q7ba3tkawLYGZfHPWEmifkJYxOonhu6F4w)\
