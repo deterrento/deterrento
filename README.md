@@ -49,6 +49,7 @@
 [gsm](https://www.gsmarena.com/)
 [aftvnews](https://www.aftvnews.com/)
 [snapdrop](https://snapdrop.net/)
+[pairdrop](https://pairdrop.net/)
 [archive](https://archive.org/details/@someone986)
 [archive2](https://archive.org/details/@someone980)
 [roms](https://r-roms.github.io/)
