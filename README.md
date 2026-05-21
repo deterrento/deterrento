@@ -62,6 +62,7 @@
 [acd32](https://archive.org/download/AMIGACD32CHD-Arquivista)
 [ps2chd](https://archive.org/details/ps2-redump-usa-chd-part-A)
 [segacdchd+](https://archive.org/download/SEGACD_CHD_PLUS)
+[saturnchd](https://archive.org/download/chd_saturn/CHD-Saturn/USA/)
 [dreamcastchd](https://archive.org/download/sega-dreamcast-redump-collection)
 [neogeo](https://archive.org/download/neogeoaesmvscomplete/Neo%20Geo%20AES%20-%20MVS/Geolith%20romset/)
 [atomiswave](https://archive.org/download/atomiswave_nonmerged/Atomiswave/)
