@@ -67,6 +67,7 @@
 [neogeo](https://archive.org/download/neogeoaesmvscomplete/Neo%20Geo%20AES%20-%20MVS/Geolith%20romset/)
 [atomiswave](https://archive.org/download/atomiswave_nonmerged/Atomiswave/)
 [wiiware](https://repo.mariocube.com/WADs/_WiiWare%2C%20VC%2C%20DLC%2C%20Channels%20%26%20IOS/C/)
+[3DSdecrypted](https://archive.org/download/3ds-decrypted-roms321com/all/)
 [genesishomebrew](https://archive.org/download/gen-md-hb)
 [ntfs](https://en.wikipedia.org/wiki/NTFS)
 [xhtml](https://en.wikipedia.org/wiki/XHTML)
