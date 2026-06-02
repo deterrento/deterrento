@@ -41,7 +41,7 @@
 [engadget](https://www.engadget.com/)
 [the_verge](https://www.theverge.com/)
 [ars_technica](https://arstechnica.com/)
-[toms](https://www.tomshardware.com/)
+[tomshardware](https://www.tomshardware.com/)
 [techpowerup](https://www.techpowerup.com/gpu-specs/geforce-rtx-5090.c4216)
 [gizmodo](https://gizmodo.uol.com.br/)
 [adrenaline](https://www.adrenaline.com.br/)
