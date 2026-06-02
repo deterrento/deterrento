@@ -32,6 +32,7 @@
 [tenis](https://tenisbrasil.uol.com.br/todas-as-noticias)
 [ign](https://br.ign.com/)
 [metacritic](https://www.metacritic.com/)
+[opencritic](https://opencritic.com/)
 [gamespot](https://www.gamespot.com/)
 [kotaku](https://kotaku.com/)
 [polygon](https://www.polygon.com/)
