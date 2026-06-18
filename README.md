@@ -83,6 +83,7 @@
 [shadps4](https://shadps4.net/)
 [xemu](https://forums.libretro.com/t/rpcs3-xemu-cemu-libretro-alhpa-core/49832)
 [model1](https://www.youtube.com/watch?v=skLB3Iu7J-I)
+[retrobios](https://abdess.github.io/retrobios/emulators/shadps4/)
 [spelunkywiki](https://spelunky.fandom.com/wiki/Spelunky_Wiki)
 [blurbusters](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
 [limbo](https://limbo-demo.en.uptodown.com/android)\
