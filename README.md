@@ -85,6 +85,7 @@
 [model1](https://www.youtube.com/watch?v=skLB3Iu7J-I)
 [retrobios](https://abdess.github.io/retrobios/emulators/shadps4/)
 [romhacklpc](https://www.youtube.com/watch?v=k_iz4LKIkDQ)
+[fagamez](https://www.youtube.com/watch?v=-FhuXZwOY5c)
 [spelunkywiki](https://spelunky.fandom.com/wiki/Spelunky_Wiki)
 [blurbusters](https://blurbusters.com/frame-generation-essentials-interpolation-extrapolation-and-reprojection/)
 [limbo](https://limbo-demo.en.uptodown.com/android)\
