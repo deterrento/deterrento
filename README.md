@@ -82,7 +82,7 @@
 [4do](https://www.3dum.net/wiki/4do-compatibility-list.htm)
 [shadps4](https://shadps4.net/)
 [xemu](https://forums.libretro.com/t/rpcs3-xemu-cemu-libretro-alhpa-core/49832)
-[model1](https://www.youtube.com/watch?v=skLB3Iu7J-I)
+[model1](https://www.youtube.com/watch?v=iuNLkHDjty4)
 [retrobios](https://abdess.github.io/retrobios/emulators/shadps4/)
 [romhacklpc](https://www.youtube.com/watch?v=k_iz4LKIkDQ)
 [fagamez](https://www.youtube.com/watch?v=-FhuXZwOY5c)
