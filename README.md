@@ -76,7 +76,7 @@
 [f1](https://en.wikipedia.org/wiki/List_of_Formula_One_Grand_Prix_winners)
 [.cso](https://archive.org/download/psp-cso-eu)
 [nintendoDS](https://myrient.erista.me/files/No-Intro/Nintendo%20-%20Nintendo%20DS%20(Decrypted)/)
-[Redump-Myrient](https://myrient.erista.me/files/Redump/)
+[vimm.net](https://vimm.net/vault/GameCube)
 [libretro](https://docs.libretro.com/guides/install-windows/)
 [emuwiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 [bigpemu](https://www.richwhitehouse.com/jaguar/index.php)
