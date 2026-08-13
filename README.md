@@ -81,7 +81,7 @@
 [emuwiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 [bigpemu](https://www.richwhitehouse.com/jaguar/index.php)
 [4do](https://www.3dum.net/wiki/4do-compatibility-list.htm)
-[shadps4](https://shadps4.net/)
+[shadps4](https://shadps4.net/compatibility/)
 [xemu](https://forums.libretro.com/t/rpcs3-xemu-cemu-libretro-alhpa-core/49832)
 [model1](https://www.youtube.com/watch?v=iuNLkHDjty4)
 [retrobios](https://abdess.github.io/retrobios/emulators/shadps4/)
