@@ -68,6 +68,7 @@
 [neogeo](https://archive.org/download/neogeoaesmvscomplete/Neo%20Geo%20AES%20-%20MVS/Geolith%20romset/)
 [atomiswave](https://archive.org/download/atomiswave_nonmerged/Atomiswave/)
 [model2](https://archive.org/download/m2emu1.1a/Sega%20Model%202%20Emu%201.1a%20and%20Full%20Romset/Model%202%20Romset%20%28Merged%29/)
+[model3](https://archive.org/download/model-3-romset-2020)
 [pspminis](https://archive.org/download/pspminis)
 [wiiware](https://repo.mariocube.com/WADs/_WiiWare%2C%20VC%2C%20DLC%2C%20Channels%20%26%20IOS/C/)
 [3DSdecrypted](https://archive.org/download/3ds-decrypted-roms321com/all/)
