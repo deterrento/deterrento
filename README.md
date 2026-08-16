@@ -66,6 +66,7 @@
 [saturnchd](https://archive.org/download/chd_saturn/CHD-Saturn/USA/)
 [dreamcastchd](https://archive.org/download/sega-dreamcast-redump-collection)
 [neogeo](https://archive.org/download/neogeoaesmvscomplete/Neo%20Geo%20AES%20-%20MVS/Geolith%20romset/)
+[naomi](https://archive.org/download/naomiromset_mame0.218)
 [atomiswave](https://archive.org/download/atomiswave_nonmerged/Atomiswave/)
 [model2](https://archive.org/download/m2emu1.1a/Sega%20Model%202%20Emu%201.1a%20and%20Full%20Romset/Model%202%20Romset%20%28Merged%29/)
 [model3](https://archive.org/download/model-3-romset-2020)
